@@ -13,6 +13,9 @@ Auf Android Geräten kann der Nutzer **(Ressourcenbesitzer)** allen Apps **(Drit
 _Dieses Beispiel ist nur eine Analogie. Android Permissions ist ein Sicherheitsmodell das rein vom Betriebssystem angeboten wird. OAuth2 wird nur in Webanwendungen verwendet._
 
 ## Reale Beispiele in denen OAuth2 (offensichtlich) angewendet wird
+
+In diesen beispielen wird der **Authorization Code**-Grant verwendet.
+
 <img width="670" height="606" alt="image" src="https://github.com/user-attachments/assets/344aae3e-678b-4c7a-a8e4-e48aed19e655" />
 
 _GitHubs Login Seite_
@@ -25,4 +28,3 @@ _Spotifys Login Seite_
 [RFC 6749: The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749#section-1)
 
 [Spring Security OAuth2](https://docs.spring.io/spring-security/reference/servlet/oauth2/index.html)
-
